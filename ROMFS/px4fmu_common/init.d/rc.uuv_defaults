@@ -11,7 +11,7 @@ set VEHICLE_TYPE uuv
 param set-default MAV_TYPE 12
 
 # Set micro-dds-client to use ethernet and IP-address 192.168.0.1
-param set-default UXRCE_DDS_AG_IP -1062731775
+#param set-default UXRCE_DDS_AG_IP -1062731775
 
 # Disable preflight disarm to not interfere with external launching
 param set-default COM_DISARM_PRFLT -1
